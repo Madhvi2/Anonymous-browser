@@ -16,4 +16,6 @@ that support Flash or Java, the situation was worse, with the average browser ca
 “Anonymous Browser”, which will try and implement a strategy for making the 'device
 fingerprint' of a user's browser more anonymous in a distributed environment.
 
+I have worked on 
+
 
