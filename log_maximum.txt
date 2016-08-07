@@ -1,0 +1,2832 @@
+1	f
+2	e
+3	w
+4	f
+5	w
+7	l
+8	w
+10	w
+12	e
+25	f
+26	e
+36	l
+37	f
+40	l
+44	e
+50	f
+56	l
+60	l
+61	w
+93	f
+98	l
+104	l
+112	l
+113	l
+114	l
+154	l
+156	l
+186	l
+207	l
+246	w
+267	l
+272	l
+283	l
+286	l
+293	w
+297	f
+310	l
+330	w
+357	e
+370	l
+393	v
+408	e
+436	l
+481	l
+505	l
+528	l
+601	l
+668	l
+672	l
+677	l
+680	f
+705	l
+711	w
+747	l
+794	l
+813	l
+831	l
+861	l
+867	w
+877	l
+889	l
+894	l
+914	l
+931	l
+982	l
+1032	l
+1038	l
+1080	e
+1096	l
+1160	w
+1173	l
+1186	l
+1222	l
+1269	l
+1286	l
+1323	l
+1364	l
+1456	l
+1550	l
+1663	l
+1688	l
+1770	l
+1787	l
+1810	l
+1896	l
+1976	l
+2152	l
+2226	l
+2227	l
+2248	l
+2255	l
+2291	l
+2329	l
+2467	l
+2469	l
+2497	l
+2549	l
+2579	l
+2592	l
+2626	l
+2670	l
+2818	l
+2876	l
+2981	l
+3121	l
+3125	l
+3130	l
+3131	l
+3204	l
+3353	l
+3439	l
+3458	l
+3587	l
+3745	l
+3759	l
+3934	l
+3963	l
+4017	l
+4144	l
+4243	l
+4276	l
+4283	l
+4457	l
+4530	l
+4576	l
+4690	l
+4786	l
+4889	l
+5013	l
+5019	l
+5028	l
+5200	l
+5291	l
+5359	l
+5377	l
+5437	e
+5438	l
+5678	l
+5916	l
+6016	l
+6072	l
+6136	l
+6203	l
+6209	l
+6328	l
+6427	l
+6524	l
+6587	l
+6593	l
+6596	l
+6822	l
+6862	l
+6942	l
+6999	l
+7267	l
+7290	l
+7432	l
+7542	l
+7632	l
+7821	l
+8058	l
+8271	l
+8346	l
+8436	l
+8510	l
+8854	v
+9176	l
+9241	l
+9386	l
+9495	l
+9640	l
+9812	l
+9830	l
+9968	l
+node choosen: 0		with degree: 174	 with variable: l
+
+a count is	0
+b count is	0
+c count is	0
+d count is	0
+e count is	8
+f count is	8
+g count is	0
+h count is	0
+i count is	0
+j count is	0
+k count is	0
+l count is	145
+m count is	0
+n count is	0
+o count is	0
+p count is	0
+q count is	0
+r count is	0
+s count is	0
+t count is	0
+u count is	0
+v count is	2
+w count is	11
+x count is	0
+y count is	0
+z count is	0
+
+
+
+0	w
+2	e
+3	w
+6	b
+13	f
+16	w
+17	l
+20	f
+28	s
+30	s
+42	f
+43	l
+45	l
+60	l
+69	s
+80	s
+92	s
+104	l
+132	s
+162	s
+171	s
+196	s
+200	v
+202	s
+215	w
+254	s
+331	s
+367	k
+379	s
+403	s
+459	s
+504	k
+532	s
+581	v
+586	v
+605	s
+634	e
+640	s
+652	s
+654	s
+658	k
+703	s
+733	s
+762	v
+788	v
+789	e
+873	s
+891	s
+943	s
+945	s
+964	s
+973	s
+979	w
+993	s
+1004	v
+1060	s
+1061	s
+1084	s
+1105	s
+1276	s
+1469	s
+1511	s
+1584	s
+1608	s
+1710	s
+1837	s
+1890	s
+1943	s
+2038	s
+2049	s
+2101	s
+2135	s
+2172	s
+2208	s
+2216	s
+2255	l
+2261	s
+2269	s
+2310	s
+2332	v
+2434	s
+2566	l
+2593	s
+2828	s
+2854	s
+3108	w
+3131	l
+3144	s
+3266	k
+3325	s
+3391	s
+3392	s
+3492	s
+3529	s
+3623	s
+3637	l
+3674	s
+3801	e
+3838	s
+3874	s
+3884	s
+3926	s
+4212	k
+4252	s
+4256	s
+4373	s
+4381	s
+4534	s
+4676	s
+4699	f
+4765	s
+4792	s
+5005	s
+5231	s
+5383	s
+5581	s
+5631	w
+5649	s
+5766	e
+5836	s
+5863	s
+5869	s
+5877	s
+6052	s
+6311	s
+6327	s
+6407	s
+6634	s
+6659	s
+6699	v
+6779	s
+6816	s
+7140	s
+7302	s
+7461	s
+7612	s
+7805	s
+8094	s
+8221	l
+8233	s
+8300	s
+8486	s
+8573	s
+8944	s
+9110	s
+9396	s
+9397	s
+9416	s
+9443	s
+9497	s
+9528	smadhvi1009
+9690	s
+9953	s
+node choosen: 1		with degree: 153	 with variable: s
+
+a count is	0
+b count is	1
+c count is	0
+d count is	0
+e count is	5
+f count is	4
+g count is	0
+h count is	0
+i count is	0
+j count is	0
+k count is	5
+l count is	10
+m count is	0
+n count is	0
+o count is	0
+p count is	0
+q count is	0
+r count is	0
+s count is	113
+t count is	0
+u count is	0
+v count is	8
+w count is	7
+x count is	0
+y count is	0
+z count is	0
+
+
+
+0	w
+1	f
+3	w
+4	f
+5	w
+8	w
+13	f
+19	f
+20	f
+21	f
+24	f
+25	f
+29	f
+31	f
+33	f
+37	f
+39	f
+42	f
+50	f
+53	f
+57	w
+71	f
+79	f
+82	f
+87	w
+93	f
+96	f
+102	f
+106	f
+109	f
+144	f
+170	f
+172	f
+185	f
+187	f
+205	f
+214	f
+253	f
+262	f
+274	f
+284	w
+291	f
+297	f
+298	f
+307	f
+324	f
+336	f
+337	f
+349	f
+364	f
+371	f
+398	f
+445	f
+477	f
+488	f
+519	f
+535	f
+563	f
+588	f
+603	f
+639	f
+671	f
+680	f
+690	f
+697	f
+714	f
+730	f
+735	w
+750	f
+768	f
+793	f
+800	f
+807	f
+809	f
+835	f
+841	f
+843	f
+844	f
+848	f
+872	f
+881	f
+887	f
+896	f
+921	f
+923	f
+930	f
+963	f
+1010	f
+1011	f
+1030	f
+1088	f
+1099	f
+1118	f
+1138	f
+1146	f
+1163	f
+1281	f
+1355	f
+1421	f
+1448	f
+1472	f
+1485	f
+1539	f
+1586	f
+1589	f
+1660	f
+1661	f
+1664	f
+1677	f
+1683	f
+1724	f
+1756	f
+1766	f
+1779	f
+1845	f
+1920	f
+1922	f
+1952	f
+1980	f
+2004	f
+2031	f
+2036	f
+2046	f
+2057	f
+2075	f
+2156	f
+2164	f
+2282	f
+2300	f
+2313	f
+2376	f
+2405	f
+2560	f
+2627	f
+2708	f
+2732	f
+2752	f
+2798	f
+2879	f
+2881	f
+2930	f
+2950	f
+3042	f
+3086	f
+3113	f
+3145	f
+3186	f
+3228	f
+3245	f
+3333	f
+3375	f
+3383	f
+3430	f
+3433	f
+3442	f
+3446	f
+3464	f
+3465	f
+3540	f
+3550	f
+3611	f
+3652	f
+3698	f
+3732	f
+3776	f
+3821	f
+3930	f
+3948	f
+3998	f
+4050	f
+4130	f
+4185	f
+4226	f
+4231	f
+4235	f
+4237	f
+4288	f
+4303	f
+4326	f
+4453	f
+4463	f
+4471	f
+4503	f
+4573	w
+4583	f
+4588	f
+4613	f
+4633	f
+4651	f
+4683	f
+4699	f
+4826	f
+4895	f
+4928	f
+4936	f
+5098	f
+5229	f
+5248	f
+5298	f
+5361	f
+5369	f
+5398	f
+5434	f
+5460	f
+5646	f
+5688	f
+5767	f
+5811	f
+6013	f
+6022	f
+6103	f
+6127	f
+6145	f
+6150	f
+6181	f
+6191	f
+6226	f
+6344	f
+6395	f
+6497	f
+6548	f
+6612	f
+6638	f
+6671	f
+6727	f
+6827	f
+6897	f
+7007	f
+7037	f
+7098	f
+7167	f
+7188	f
+7316	f
+7326	f
+7373	f
+7493	f
+7597	f
+7598	f
+7599	f
+7600	f
+7671	f
+7755	f
+7850	f
+7851	f
+7876	f
+7945	f
+8033	f
+8302	f
+8512	f
+8594	f
+8700	f
+8716	f
+8727	f
+8797	f
+8999	f
+9140	f
+9266	w
+9368	f
+9384	f
+9412	f
+9419	f
+9597	f
+9620	f
+9672	f
+9742	f
+9789	f
+9860	f
+9901	f
+node choosen: 2		with degree: 268	 with variable: f
+
+a count is	0
+b count is	0
+c count is	0
+d count is	0
+e count is	0
+f count is	258
+g count is	0
+h count is	0
+i count is	0
+j count is	0
+k count is	0
+l count is	0
+m count is	0
+n count is	0
+o count is	0
+p count is	0
+q count is	0
+r count is	0
+s count is	0
+t count is	0
+u count is	0
+v count is	0
+w count is	10
+x count is	0
+y count is	0
+z count is	0
+
+
+
+0	w
+1	f
+2	e
+4	f
+5	w
+6	b
+7	l
+13	f
+14	e
+27	w
+33	f
+35	l
+37	f
+41	b
+66	b
+67	b
+70	b
+82	f
+84	b
+93	f
+94	w
+104	l
+105	b
+112	l
+124	b
+147	b
+155	b
+183	b
+191	b
+231	b
+293	w
+303	v
+316	b
+333	b
+344	w
+402	l
+483	b
+497	b
+561	v
+604	b
+615	b
+618	b
+663	b
+667	b
+673	b
+804	b
+944	b
+1103	b
+1106	b
+1133	b
+1319	l
+1382	b
+1507	b
+1524	b
+1607	e
+1627	b
+1653	b
+1704	b
+1744	b
+1800	b
+1801	b
+1832	b
+1855	b
+1882	b
+2006	b
+2048	b
+2058	b
+2092	b
+2113	b
+2153	b
+2178	b
+2220	b
+2236	b
+2435	b
+2528	b
+2543	b
+2660	b
+2795	b
+2844	e
+2850	b
+2936	b
+2993	b
+3021	b
+3061	b
+3076	b
+3093	b
+3134	b
+3378	b
+3422	b
+3478	b
+3496	b
+3647	w
+3711	b
+3898	b
+3912	b
+3922	b
+3981	b
+4045	b
+4201	b
+4307	b
+4419	b
+4831	b
+4854	b
+4862	b
+4899	b
+4908	b
+4953	b
+5117	b
+5225	b
+5435	b
+5485	b
+5625	b
+5743	b
+5936	b
+6134	b
+6186	b
+6270	l
+6278	b
+6309	b
+6357	b
+6390	b
+6425	b
+6447	b
+6598	b
+6613	b
+6633	b
+6939	b
+6959	b
+7066	b
+7067	b
+7119	b
+7309	b
+7486	b
+7591	b
+7648	b
+7680	b
+7690	b
+7826	e
+7887	b
+8048	b
+8098	b
+8102	b
+8220	b
+8326	b
+8339	b
+8370	b
+8564	b
+8689	b
+8749	b
+8786	b
+8846	b
+9072	b
+9073	b
+9150	b
+9277	b
+9303	b
+9320	b
+9404	b
+9476	b
+9632	b
+9773	b
+9974	b
+node choosen: 3		with degree: 162	 with variable: b
+
+a count is	0
+b count is	134
+c count is	0
+d count is	0
+e count is	5
+f count is	7
+g count is	0
+h count is	0
+i count is	0
+j count is	0
+k count is	0
+l count is	7
+m count is	0
+n count is	0
+o count is	0
+p count is	0
+q count is	0
+r count is	0
+s count is	0
+t count is	0
+u count is	0
+v count is	2
+w count is	7
+x count is	0
+y count is	0
+z count is	0
+
+
+
+0	w
+2	e
+3	w
+9	w
+17	l
+20	f
+21	f
+44	e
+99	k
+105	b
+112	l
+118	w
+136	k
+141	k
+152	k
+153	k
+155	b
+173	k
+189	k
+190	k
+235	k
+240	k
+253	f
+280	k
+325	k
+367	k
+412	k
+424	k
+428	k
+504	k
+508	k
+535	f
+647	v
+650	k
+658	k
+670	k
+709	k
+714	f
+756	k
+999	k
+1007	k
+1047	k
+1073	k
+1082	k
+1099	f
+1190	k
+1207	k
+1239	k
+1274	k
+1301	k
+1445	k
+1506	k
+1542	k
+1603	k
+1625	k
+1649	l
+1716	k
+1719	k
+1727	k
+1732	w
+1794	k
+1819	k
+1833	e
+1853	k
+1950	k
+2281	k
+2286	k
+2290	k
+2316	k
+2663	k
+2725	k
+2814	k
+2861	k
+2970	k
+3070	k
+3077	k
+3156	k
+3173	k
+3234	k
+3266	k
+3285	k
+3402	k
+3609	k
+3612	k
+3701	k
+3857	k
+3896	k
+3927	k
+3992	w
+4009	k
+4076	v
+4119	k
+4197	k
+4212	k
+4275	k
+4316	k
+4463	f
+4766	k
+4941	k
+4959	k
+4960	k
+5013	l
+5016	k
+5112	k
+5197	k
+5225	b
+5292	k
+5385	k
+5443	k
+5453	k
+5656	k
+5680	k
+5768	k
+5772	k
+5883	k
+6120	k
+6127	f
+6219	k
+6224	k
+6289	k
+6293	k
+6339	v
+6358	k
+6394	k
+6431	k
+6441	k
+6518	k
+6655	w
+6807	k
+6818	k
+6983	k
+7530	k
+7664	k
+7713	k
+7792	k
+7807	k
+7864	k
+7934	k
+8142	k
+8159	k
+8210	k
+8244	k
+8502	k
+8582	k
+8606	k
+8632	k
+8736	k
+8831	k
+8841	k
+8882	k
+8934	k
+8935	k
+9090	k
+9331	k
+9892	k
+node choosen: 4		with degree: 155	 with variable: k
+
+a count is	0
+b count is	3
+c count is	0
+d count is	0
+e count is	3
+f count is	8
+g count is	0
+h count is	0
+i count is	0
+j count is	0
+k count is	127
+l count is	4
+m count is	0
+n count is	0
+o count is	0
+p count is	0
+q count is	0
+r count is	0
+s count is	0
+t count is	0
+u count is	0
+v count is	3
+w count is	7
+x count is	0
+y count is	0
+z count is	0
+
+
+
+0	w
+2	e
+3	w
+6	b
+7	l
+9	w
+11	w
+18	w
+27	w
+30	s
+32	w
+34	e
+40	l
+60	l
+66	b
+75	e
+84	b
+102	f
+137	e
+149	e
+150	e
+153	k
+156	l
+163	e
+179	e
+262	f
+289	e
+358	e
+377	e
+420	l
+456	e
+464	e
+495	e
+520	e
+522	e
+525	e
+588	f
+622	e
+627	e
+668	l
+729	e
+850	e
+869	e
+887	f
+899	e
+909	e
+924	e
+951	e
+959	e
+989	l
+1063	e
+1106	b
+1133	b
+1250	w
+1294	e
+1408	e
+1425	e
+1432	e
+1464	e
+1479	l
+1933	e
+2011	e
+2059	e
+2084	e
+2210	e
+2511	e
+2545	v
+2622	e
+2684	e
+2711	e
+2744	e
+2757	e
+2961	e
+3026	e
+3085	e
+3115	e
+3118	e
+3211	v
+3230	e
+3843	e
+3962	e
+4044	e
+4094	e
+4163	e
+4239	e
+4682	e
+4820	e
+5173	e
+5258	e
+5399	e
+5432	e
+5707	e
+5757	e
+5837	e
+5999	e
+6072	l
+6281	e
+6294	e
+6360	e
+6538	e
+6580	e
+6752	e
+6849	e
+7008	e
+7157	e
+7407	e
+7511	e
+7629	e
+7641	e
+7679	e
+7954	e
+8036	e
+8119	e
+8372	e
+8494	e
+8509	e
+8814	e
+9135	e
+9161	e
+9334	e
+9560	e
+9605	e
+9623	e
+9709	e
+9898	e
+9921	e
+9952	e
+node choosen: 5		with degree: 127	 with variable: e
+
+a count is	0
+b count is	5
+c count is	0
+d count is	0
+e count is	97
+f count is	4
+g count is	0
+h count is	0
+i count is	0
+j count is	0
+k count is	1
+l count is	9
+m count is	0
+n count is	0
+o count is	0
+p count is	0
+q count is	0
+r count is	0
+s count is	1
+t count is	0
+u count is	0
+v count is	2
+w count is	8
+x count is	0
+y count is	0
+z count is	0
+
+
+
+7	l
+9	w
+10	w
+17	l
+24	f
+33	f
+35	l
+43	l
+45	l
+48	l
+56	l
+68	l
+77	l
+79	f
+81	l
+91	l
+101	l
+107	w
+115	l
+135	l
+138	l
+140	w
+143	w
+145	l
+165	l
+188	l
+219	l
+221	l
+224	l
+227	l
+237	l
+238	l
+260	l
+279	l
+281	l
+310	l
+339	l
+376	l
+389	w
+390	l
+400	l
+402	l
+406	l
+414	l
+420	l
+445	f
+447	l
+467	l
+490	l
+549	l
+550	l
+573	l
+578	l
+620	l
+631	l
+727	l
+737	l
+754	l
+779	l
+787	l
+796	l
+802	l
+806	l
+835	f
+846	l
+896	f
+961	l
+989	l
+1076	l
+1102	l
+1193	w
+1195	l
+1199	l
+1319	l
+1321	l
+1352	l
+1358	l
+1446	l
+1476	l
+1479	l
+1512	l
+1525	l
+1546	l
+1555	l
+1590	l
+1616	l
+1621	l
+1629	l
+1638	l
+1649	l
+1668	l
+1693	l
+1713	l
+1720	l
+1755	l
+2021	l
+2066	l
+2089	l
+2130	l
+2221	l
+2235	l
+2256	l
+2268	l
+2311	l
+2394	l
+2396	l
+2443	l
+2483	l
+2509	l
+2539	w
+2558	l
+2566	l
+2603	l
+2607	l
+2685	l
+2860	l
+2870	l
+2928	l
+2937	l
+3011	w
+3013	l
+3058	l
+3169	l
+3192	l
+3240	l
+3281	l
+3334	l
+3352	l
+3419	l
+3421	l
+3472	l
+3584	l
+3622	l
+3637	l
+3662	l
+3666	l
+3753	l
+3756	l
+3828	l
+3944	l
+3947	l
+4050	f
+4114	l
+4173	l
+4183	l
+4200	l
+4308	l
+4437	l
+4504	l
+4518	l
+4617	l
+4662	l
+4726	l
+4774	l
+4796	l
+4808	l
+4827	l
+4853	l
+4934	l
+5078	l
+5157	l
+5290	l
+5334	l
+5392	l
+5470	l
+5497	l
+5511	l
+5589	l
+5601	l
+5663	l
+5889	l
+5896	l
+5921	l
+5922	l
+6082	l
+6144	l
+6194	l
+6270	l
+6420	l
+6493	l
+6557	l
+6570	l
+6832	l
+6852	l
+6859	l
+6935	l
+6971	l
+6986	l
+7108	l
+7180	l
+7247	l
+7250	l
+7289	l
+7304	l
+7319	l
+7354	l
+7472	l
+7715	l
+7962	l
+8058	l
+8059	l
+8069	l
+8221	l
+8273	l
+8282	l
+8303	l
+8332	l
+8498	l
+8583	l
+8650	l
+8676	l
+8725	l
+8746	l
+8762	l
+8861	l
+8910	l
+8928	l
+8964	l
+8971	l
+9367	l
+9387	l
+9527	l
+9550	l
+9649	l
+9653	l
+9819	l
+9838	l
+node choosen: 15		with degree: 227	 with variable: l
+
+a count is	0
+b count is	0
+c count is	0
+d count is	0
+e count is	0
+f count is	7
+g count is	0
+h count is	0
+i count is	0
+j count is	0
+k count is	0
+l count is	211
+m count is	0
+n count is	0
+o count is	0
+p count is	0
+q count is	0
+r count is	0
+s count is	0
+t count is	0
+u count is	0
+v count is	0
+w count is	9
+x count is	0
+y count is	0
+z count is	0
+
+
+
+1	f
+7	l
+9	w
+30	s
+57	w
+67	b
+119	v
+160	j
+257	v
+265	x
+315	c
+331	s
+354	v
+365	x
+412	k
+435	e
+473	x
+559	a
+572	v
+749	x
+943	s
+965	n
+1108	x
+1224	x
+1359	x
+1404	x
+1615	x
+1664	f
+1734	x
+1765	x
+1858	w
+1863	x
+2200	x
+2217	x
+2376	f
+2449	x
+2541	x
+2566	l
+2624	x
+2946	x
+3221	x
+3319	x
+3447	x
+3652	f
+4034	x
+4109	x
+4244	x
+4692	x
+4906	x
+5391	x
+5555	x
+5662	x
+5815	x
+6999	l
+7373	f
+7493	f
+7666	x
+7691	x
+8151	x
+8255	x
+8544	x
+8628	x
+8639	x
+8837	x
+8936	x
+9185	x
+9244	x
+9281	x
+9425	x
+9862	x
+node choosen: 16		with degree: 70	 with variable: x
+
+a count is	1
+b count is	1
+c count is	1
+d count is	0
+e count is	1
+f count is	6
+g count is	0
+h count is	0
+i count is	0
+j count is	1
+k count is	1
+l count is	3
+m count is	0
+n count is	1
+o count is	0
+p count is	0
+q count is	0
+r count is	0
+s count is	3
+t count is	0
+u count is	0
+v count is	4
+w count is	3
+x count is	44
+y count is	0
+z count is	0
+
+
+
+1	f
+4	f
+15	w
+36	l
+49	i
+54	a
+89	v
+150	e
+195	s
+223	s
+236	s
+342	s
+356	s
+473	x
+552	a
+602	v
+645	b
+825	w
+1129	c
+1375	s
+1421	f
+1455	s
+1580	s
+1624	s
+1781	s
+1916	s
+2243	s
+2955	s
+3027	s
+3032	s
+3895	s
+4089	s
+4090	s
+4453	f
+4608	s
+5098	f
+5140	s
+5216	j
+6414	s
+6436	s
+7491	s
+7764	s
+8012	s
+8051	s
+8633	l
+9257	s
+9395	c
+9468	s
+9880	s
+node choosen: 17		with degree: 49	 with variable: s
+
+a count is	2
+b count is	1
+c count is	2
+d count is	0
+e count is	1
+f count is	5
+g count is	0
+h count is	0
+i count is	1
+j count is	1
+k count is	0
+l count is	2
+m count is	0
+n count is	0
+o count is	0
+p count is	0
+q count is	0
+r count is	0
+s count is	29
+t count is	0
+u count is	0
+v count is	2
+w count is	2
+x count is	1
+y count is	0
+z count is	0
+
+
+
+5	w
+7	l
+14	e
+97	e
+254	s
+437	a
+1103	b
+1290	q
+1527	q
+1742	q
+1831	i
+1960	f
+1989	q
+2115	m
+2183	q
+2520	q
+2808	s
+3051	f
+3153	q
+3180	t
+3316	q
+3541	q
+3590	q
+3738	j
+3758	a
+4394	g
+4592	q
+4610	q
+5467	q
+5692	q
+6736	q
+6764	q
+7418	q
+7799	q
+8389	c
+9013	q
+9075	q
+node choosen: 18		with degree: 37	 with variable: q
+
+a count is	2
+b count is	1
+c count is	1
+d count is	0
+e count is	2
+f count is	2
+g count is	1
+h count is	0
+i count is	1
+j count is	1
+k count is	0
+l count is	1
+m count is	1
+n count is	0
+o count is	0
+p count is	0
+q count is	20
+r count is	0
+s count is	2
+t count is	1
+u count is	0
+v count is	0
+w count is	1
+x count is	0
+y count is	0
+z count is	0
+
+
+
+0	w
+2	e
+46	w
+272	l
+446	a
+1413	h
+1434	h
+1444	i
+1849	s
+1915	b
+1924	g
+2327	h
+2371	h
+3813	h
+3896	k
+4486	b
+4510	r
+4655	h
+4947	c
+5156	h
+5469	h
+6555	h
+6626	g
+7473	h
+8047	y
+8239	h
+8280	h
+node choosen: 50		with degree: 27	 with variable: h
+
+a count is	1
+b count is	2
+c count is	1
+d count is	0
+e count is	1
+f count is	0
+g count is	2
+h count is	12
+i count is	1
+j count is	0
+k count is	1
+l count is	1
+m count is	0
+n count is	0
+o count is	0
+p count is	0
+q count is	0
+r count is	1
+s count is	1
+t count is	0
+u count is	0
+v count is	0
+w count is	2
+x count is	0
+y count is	1
+z count is	0
+
+
+
+6	b
+19	f
+28	s
+101	l
+123	q
+135	l
+168	u
+211	c
+247	a
+285	v
+304	c
+402	l
+449	c
+453	f
+506	a
+534	u
+731	c
+1144	o
+1318	c
+1463	c
+1495	c
+1538	c
+1545	e
+1603	k
+1669	c
+2501	c
+2882	i
+3159	c
+3295	c
+3352	l
+3432	c
+3565	c
+4117	c
+4189	c
+4192	c
+4363	c
+4901	v
+5169	c
+5281	c
+5293	c
+5945	c
+6916	c
+7189	c
+7364	c
+8128	c
+8193	c
+8312	c
+9509	c
+node choosen: 51		with degree: 48	 with variable: c
+
+a count is	2
+b count is	1
+c count is	29
+d count is	0
+e count is	1
+f count is	2
+g count is	0
+h count is	0
+i count is	1
+j count is	0
+k count is	1
+l count is	4
+m count is	0
+n count is	0
+o count is	1
+p count is	0
+q count is	1
+r count is	0
+s count is	1
+t count is	0
+u count is	2
+v count is	2
+w count is	0
+x count is	0
+y count is	0
+z count is	0
+
+
+
+8	w
+10	w
+32	w
+180	e
+198	c
+450	u
+1271	q
+1504	h
+1524	b
+2227	l
+2837	m
+3219	m
+3306	m
+3392	s
+3755	v
+4538	m
+4758	m
+4937	m
+5525	k
+5542	m
+5618	f
+7307	m
+7457	m
+7549	m
+8508	m
+8617	m
+9769	m
+node choosen: 52		with degree: 27	 with variable: m
+
+a count is	0
+b count is	1
+c count is	1
+d count is	0
+e count is	1
+f count is	1
+g count is	0
+h count is	1
+i count is	0
+j count is	0
+k count is	1
+l count is	1
+m count is	13
+n count is	0
+o count is	0
+p count is	0
+q count is	1
+r count is	0
+s count is	1
+t count is	0
+u count is	1
+v count is	1
+w count is	3
+x count is	0
+y count is	0
+z count is	0
+
+
+
+2	e
+8	w
+22	w
+96	f
+248	h
+302	r
+332	n
+686	x
+758	n
+1113	n
+1134	c
+1884	u
+2600	n
+2643	e
+2758	v
+3182	n
+3409	n
+3464	f
+3528	n
+3696	n
+4369	n
+4501	n
+4751	w
+5437	e
+5851	n
+5951	n
+7150	n
+7804	n
+7860	n
+7894	n
+8083	b
+8777	n
+node choosen: 53		with degree: 32	 with variable: n
+
+a count is	0
+b count is	1
+c count is	1
+d count is	0
+e count is	3
+f count is	2
+g count is	0
+h count is	1
+i count is	0
+j count is	0
+k count is	0
+l count is	0
+m count is	0
+n count is	17
+o count is	0
+p count is	0
+q count is	0
+r count is	1
+s count is	0
+t count is	0
+u count is	1
+v count is	1
+w count is	3
+x count is	1
+y count is	0
+z count is	0
+
+
+
+17	l
+20	f
+49	i
+152	k
+208	r
+410	n
+623	d
+905	v
+1554	y
+3304	t
+3389	t
+3421	l
+5035	i
+6365	i
+node choosen: 54		with degree: 14	 with variable: i
+
+a count is	0
+b count is	0
+c count is	0
+d count is	1
+e count is	0
+f count is	1
+g count is	0
+h count is	0
+i count is	3
+j count is	0
+k count is	1
+l count is	2
+m count is	0
+n count is	1
+o count is	0
+p count is	0
+q count is	0
+r count is	1
+s count is	0
+t count is	2
+u count is	0
+v count is	1
+w count is	0
+x count is	0
+y count is	1
+z count is	0
+
+
+
+10	w
+29	f
+39	f
+58	w
+195	s
+226	i
+231	b
+298	f
+543	i
+596	h
+735	w
+768	f
+778	i
+1061	s
+1130	i
+1221	i
+1600	i
+1908	i
+2155	c
+2788	a
+2937	l
+3305	i
+3407	i
+4323	i
+4565	i
+4952	i
+5012	o
+5071	i
+5256	i
+5278	i
+5726	i
+5737	i
+6007	i
+6952	i
+8444	i
+8600	i
+8650	l
+8963	i
+node choosen: 55		with degree: 38	 with variable: i
+
+a count is	1
+b count is	1
+c count is	1
+d count is	0
+e count is	0
+f count is	4
+g count is	0
+h count is	1
+i count is	22
+j count is	0
+k count is	0
+l count is	2
+m count is	0
+n count is	0
+o count is	1
+p count is	0
+q count is	0
+r count is	0
+s count is	2
+t count is	0
+u count is	0
+v count is	0
+w count is	3
+x count is	0
+y count is	0
+z count is	0
+
+
+
+1	f
+20	f
+61	w
+266	q
+616	a
+826	t
+1342	h
+1646	s
+2279	g
+2399	e
+3023	g
+5260	g
+5383	s
+5799	g
+5852	x
+7608	i
+7882	g
+8598	n
+9022	g
+node choosen: 80		with degree: 19	 with variable: g
+
+a count is	1
+b count is	0
+c count is	0
+d count is	0
+e count is	1
+f count is	2
+g count is	6
+h count is	1
+i count is	1
+j count is	0
+k count is	0
+l count is	0
+m count is	0
+n count is	1
+o count is	0
+p count is	0
+q count is	1
+r count is	0
+s count is	2
+t count is	1
+u count is	0
+v count is	0
+w count is	1
+x count is	1
+y count is	0
+z count is	0
+
+
+
+15	w
+19	f
+57	w
+83	f
+86	g
+113	l
+131	c
+143	w
+162	s
+203	k
+278	w
+296	w
+355	u
+474	g
+541	i
+617	i
+809	f
+987	a
+1008	g
+1017	g
+1171	g
+1205	g
+1246	g
+1503	s
+1770	l
+1792	e
+1913	g
+2473	g
+2743	g
+2841	i
+3094	g
+3101	g
+3164	g
+3283	g
+3410	g
+3853	g
+3874	s
+4394	g
+4647	g
+4695	g
+5224	g
+5543	g
+5760	g
+5913	g
+6626	g
+7133	g
+7395	g
+7946	g
+8677	g
+8720	g
+8861	l
+8877	g
+node choosen: 81		with degree: 52	 with variable: g
+
+a count is	1
+b count is	0
+c count is	1
+d count is	0
+e count is	1
+f count is	3
+g count is	30
+h count is	0
+i count is	3
+j count is	0
+k count is	1
+l count is	3
+m count is	0
+n count is	0
+o count is	0
+p count is	0
+q count is	0
+r count is	0
+s count is	3
+t count is	0
+u count is	1
+v count is	0
+w count is	5
+x count is	0
+y count is	0
+z count is	0
+
+
+
+2	e
+3	w
+9	w
+386	v
+516	l
+559	a
+604	b
+679	l
+726	s
+857	a
+927	a
+1084	s
+1218	q
+1437	l
+1439	u
+1650	l
+2168	l
+2230	u
+3432	c
+3439	l
+3656	l
+4475	l
+4521	l
+4588	f
+5883	k
+5914	l
+5944	a
+5959	l
+7337	l
+7877	c
+8041	l
+8899	i
+9073	b
+9931	l
+node choosen: 82		with degree: 34	 with variable: l
+
+a count is	4
+b count is	2
+c count is	2
+d count is	0
+e count is	1
+f count is	1
+g count is	0
+h count is	0
+i count is	1
+j count is	0
+k count is	1
+l count is	14
+m count is	0
+n count is	0
+o count is	0
+p count is	0
+q count is	1
+r count is	0
+s count is	2
+t count is	0
+u count is	2
+v count is	1
+w count is	2
+x count is	0
+y count is	0
+z count is	0
+
+
+
+10	w
+60	l
+81	l
+85	w
+119	v
+147	b
+271	c
+320	a
+567	i
+1047	k
+1382	b
+1768	i
+2003	o
+2203	i
+2212	h
+2688	i
+3006	i
+3517	r
+4482	i
+4580	i
+4712	t
+8888	i
+9143	i
+node choosen: 83		with degree: 23	 with variable: i
+
+a count is	1
+b count is	2
+c count is	1
+d count is	0
+e count is	0
+f count is	0
+g count is	0
+h count is	1
+i count is	9
+j count is	0
+k count is	1
+l count is	2
+m count is	0
+n count is	0
+o count is	1
+p count is	0
+q count is	0
+r count is	1
+s count is	0
+t count is	1
+u count is	0
+v count is	1
+w count is	2
+x count is	0
+y count is	0
+z count is	0
+
+
+
+3	w
+5	w
+76	w
+123	q
+190	k
+266	q
+821	q
+854	y
+1035	g
+1145	q
+1815	n
+1943	s
+1992	q
+2118	a
+3382	q
+3392	s
+3688	r
+4020	c
+4068	r
+4325	i
+5077	q
+5816	q
+6060	q
+6774	q
+6789	q
+7603	q
+8286	q
+8627	q
+9321	q
+9632	b
+9735	q
+node choosen: 84		with degree: 31	 with variable: q
+
+a count is	1
+b count is	1
+c count is	1
+d count is	0
+e count is	0
+f count is	0
+g count is	1
+h count is	0
+i count is	1
+j count is	0
+k count is	1
+l count is	0
+m count is	0
+n count is	1
+o count is	0
+p count is	0
+q count is	16
+r count is	2
+s count is	2
+t count is	0
+u count is	0
+v count is	0
+w count is	3
+x count is	0
+y count is	1
+z count is	0
+
+
+
+26	e
+31	f
+47	e
+149	e
+166	e
+184	e
+187	f
+235	k
+327	u
+429	v
+508	k
+518	w
+532	s
+534	u
+563	f
+649	u
+680	f
+683	u
+764	u
+832	u
+925	u
+1109	u
+1202	u
+1239	k
+1265	u
+1431	u
+1680	u
+1982	u
+2166	u
+2169	u
+2334	u
+2366	a
+2480	e
+2538	i
+2551	u
+2579	l
+2839	u
+3087	u
+3122	u
+3311	u
+3335	u
+3356	u
+3684	u
+4081	u
+4163	e
+4594	u
+4946	u
+5042	u
+5170	u
+5441	u
+5730	u
+6035	u
+6859	l
+6868	u
+6876	u
+6901	u
+7375	u
+7409	u
+7987	u
+8003	s
+8137	u
+8425	u
+8446	u
+8799	u
+9413	u
+9537	u
+9675	u
+node choosen: 100		with degree: 67	 with variable: u
+
+a count is	1
+b count is	0
+c count is	0
+d count is	0
+e count is	7
+f count is	4
+g count is	0
+h count is	0
+i count is	1
+j count is	0
+k count is	3
+l count is	2
+m count is	0
+n count is	0
+o count is	0
+p count is	0
+q count is	0
+r count is	0
+s count is	2
+t count is	0
+u count is	45
+v count is	1
+w count is	1
+x count is	0
+y count is	0
+z count is	0
+
+
+
+9	w
+15	w
+51	r
+240	k
+977	i
+1153	i
+1636	h
+1650	l
+1805	u
+2391	e
+2605	g
+4061	e
+4795	y
+4955	c
+5623	v
+7425	d
+9855	o
+node choosen: 101		with degree: 17	 with variable: o
+
+a count is	0
+b count is	0
+c count is	1
+d count is	1
+e count is	2
+f count is	0
+g count is	1
+h count is	1
+i count is	2
+j count is	0
+k count is	1
+l count is	1
+m count is	0
+n count is	0
+o count is	1
+p count is	0
+q count is	0
+r count is	1
+s count is	0
+t count is	0
+u count is	1
+v count is	1
+w count is	2
+x count is	0
+y count is	1
+z count is	0
+
+
+
+71	f
+108	u
+456	e
+638	w
+1774	j
+2072	h
+2140	w
+2397	b
+3267	s
+3567	s
+4180	m
+4339	l
+6369	s
+7269	t
+7273	a
+7524	s
+node choosen: 500		with degree: 16	 with variable: s
+
+a count is	1
+b count is	1
+c count is	0
+d count is	0
+e count is	1
+f count is	1
+g count is	0
+h count is	1
+i count is	0
+j count is	1
+k count is	0
+l count is	1
+m count is	1
+n count is	0
+o count is	0
+p count is	0
+q count is	0
+r count is	0
+s count is	4
+t count is	1
+u count is	1
+v count is	0
+w count is	2
+x count is	0
+y count is	0
+z count is	0
+
+
+
+413	d
+520	e
+921	f
+1998	s
+2514	c
+2642	s
+2976	e
+3148	s
+3481	q
+3798	u
+3956	n
+5167	s
+6848	s
+7952	s
+8836	s
+node choosen: 1000		with degree: 15	 with variable: s
+
+a count is	0
+b count is	0
+c count is	1
+d count is	1
+e count is	2
+f count is	1
+g count is	0
+h count is	0
+i count is	0
+j count is	0
+k count is	0
+l count is	0
+m count is	0
+n count is	1
+o count is	0
+p count is	0
+q count is	1
+r count is	0
+s count is	7
+t count is	0
+u count is	1
+v count is	0
+w count is	0
+x count is	0
+y count is	0
+z count is	0
+
+
+
+20	f
+242	f
+320	a
+7650	q
+8624	s
+9005	s
+9291	o
+node choosen: 2000		with degree: 7	 with variable: s
+
+a count is	1
+b count is	0
+c count is	0
+d count is	0
+e count is	0
+f count is	2
+g count is	0
+h count is	0
+i count is	0
+j count is	0
+k count is	0
+l count is	0
+m count is	0
+n count is	0
+o count is	1
+p count is	0
+q count is	1
+r count is	0
+s count is	2
+t count is	0
+u count is	0
+v count is	0
+w count is	0
+x count is	0
+y count is	0
+z count is	0
+
+
+
+487	s
+2483	l
+4585	w
+7274	i
+node choosen: 5000		with degree: 4	 with variable: l
+
+a count is	0
+b count is	0
+c count is	0
+d count is	0
+e count is	0
+f count is	0
+g count is	0
+h count is	0
+i count is	1
+j count is	0
+k count is	0
+l count is	1
+m count is	0
+n count is	0
+o count is	0
+p count is	0
+q count is	0
+r count is	0
+s count is	1
+t count is	0
+u count is	0
+v count is	0
+w count is	1
+x count is	0
+y count is	0
+z count is	0
+
+
+
+1429	i
+3263	r
+7311	i
+node choosen: 8000		with degree: 3	 with variable: g
+
+a count is	0
+b count is	0
+c count is	0
+d count is	0
+e count is	0
+f count is	0
+g count is	0
+h count is	0
+i count is	2
+j count is	0
+k count is	0
+l count is	0
+m count is	0
+n count is	0
+o count is	0
+p count is	0
+q count is	0
+r count is	1
+s count is	0
+t count is	0
+u count is	0
+v count is	0
+w count is	0
+x count is	0
+y count is	0
+z count is	0
+
+
+
+847	i
+1119	u
+4760	u
+node choosen: 9000		with degree: 3	 with variable: b
+
+a count is	0
+b count is	0
+c count is	0
+d count is	0
+e count is	0
+f count is	0
+g count is	0
+h count is	0
+i count is	1
+j count is	0
+k count is	0
+l count is	0
+m count is	0
+n count is	0
+o count is	0
+p count is	0
+q count is	0
+r count is	0
+s count is	0
+t count is	0
+u count is	2
+v count is	0
+w count is	0
+x count is	0
+y count is	0
+z count is	0
+
+
+
+626	o
+1381	j
+4856	o
+node choosen: 9999		with degree: 3	 with variable: l
+
+a count is	0
+b count is	0
+c count is	0
+d count is	0
+e count is	0
+f count is	0
+g count is	0
+h count is	0
+i count is	0
+j count is	1
+k count is	0
+l count is	0
+m count is	0
+n count is	0
+o count is	2
+p count is	0
+q count is	0
+r count is	0
+s count is	0
+t count is	0
+u count is	0
+v count is	0
+w count is	0
+x count is	0
+y count is	0
+z count is	0
+
+
+
